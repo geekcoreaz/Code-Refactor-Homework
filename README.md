@@ -1,4 +1,4 @@
-# Homework-Code-Refactor
+# Code-Factor-Homework
 
 This was our assignment to refactor code, add accessibility and cleanup the CSS.
 
